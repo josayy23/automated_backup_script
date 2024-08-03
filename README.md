@@ -41,14 +41,6 @@ Copy code
 3. Run the script by clicking the green `Run` button in PyCharm.
 4. Follow the on-screen instructions to create or restore backups.
 
-### Summary
-
-- **`AutomatedBackupScript/`**: The root directory of your project.
-- **`main.py`**: The main script that provides a user interface for interacting with the tool. It calls functions from `backup_utils.py` based on user input.
-- **`backup_utils.py`**: Contains the core utility functions for creating and restoring backups.
-- **`README.md`**: Provides comprehensive documentation about the project, including an overview, features, setup and usage instructions, and contribution guidelines.
-
-By following these steps, you will have created an Automated Backup Script in Python, added a README file, and set up the project in PyCharm. If you have any questions or need further assistance, feel free to ask!
 
 
 
